@@ -97,6 +97,6 @@ Super Star venceu a batalha!
 
 
 🧑‍💻 Tecnologias Utilizadas
-    .Python 3: Linguagem principal para o desenvolvimento do jogo.
+.Python 3: Linguagem principal para o desenvolvimento do jogo.
     
-    .Programação Orientada a Objetos (POO): Uso de classes, herança e métodos.
+.Programação Orientada a Objetos (POO): Uso de classes, herança e métodos.
