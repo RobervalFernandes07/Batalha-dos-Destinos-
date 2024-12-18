@@ -8,16 +8,24 @@ Um jogo simples baseado em texto, criado em Python, onde o jogador controla um h
 No jogo Batalha dos Destinos:
 
  . O herói possui habilidades especiais e é controlado pelo usuário.
+ 
  . O inimigo é o adversário e possui características próprias.
+ 
  . O jogador deve escolher entre um ataque normal ou especial e enfrentar o inimigo em um sistema de turnos.
+ 
  . O vencedor é definido quando a vida de um dos personagens chega a zero.
 
 🚀 Funcionalidades
  . Classe Mãe Personagem: Base para Heroi e Inimigo.
+ 
  . Ataques Normais e Especiais:
+ 
  . O ataque normal causa dano baseado no nível do personagem.
+ 
  . O ataque especial causa dano adicional ao inimigo.
+ 
  . Sistema de Turnos: O herói e o inimigo se alternam nos ataques.
+ 
  . Detalhes dos Personagens: Exibição em tempo real de atributos como vida, nível e habilidades.
 
 
